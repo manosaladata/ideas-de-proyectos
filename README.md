@@ -2,3 +2,14 @@
 
 Este repo ha sido creado para capturar todas las buenas ideas de la comunidad así como priorizar proyectos 100% opensource.
 
+Manos a la Data es un proyecto opensource que busca impulsar el uso de la ciencia de datos en Perú y Latinoamérica. 
+
+
+Organización: [Behavioral Economics & Data Science Team BEST](http://besteamperu.org/)
+Líder del proyecto: [Arturo Chian](https://arturochian.com/)
+Voluntarios:
+
+- [Arturo Chian](https://arturochian.com/) - Este es un ejemplo.
+
+
+
