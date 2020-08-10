@@ -13,5 +13,6 @@ Manos a la Data es un proyecto opensource que busca impulsar el uso de la cienci
   - [Abner Casallo](https://www.linkedin.com/in/abner-francisco-casallo-trauco-b331b983/)
   - [Jóse Conde](https://www.linkedin.com/in/jose-conde/)
   - [Jhon Figueroa ](https://www.linkedin.com/in/jhon-vidal-figueroa-céspedes-166837124/)
+  - [Jose Luis Laura](https://www.linkedin.com/in/jose-luis-laura-pumaleque/)
 
 
