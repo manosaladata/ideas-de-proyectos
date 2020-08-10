@@ -11,6 +11,6 @@ Manos a la Data es un proyecto opensource que busca impulsar el uso de la cienci
 
   - [Arturo Chian](https://arturochian.com/) - Este es un ejemplo.
   - [Abner Casallo](https://www.linkedin.com/in/abner-francisco-casallo-trauco-b331b983/)
-
+  - [Jóse Conde](https://www.linkedin.com/in/jose-conde/)
 
 
