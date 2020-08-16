@@ -16,4 +16,5 @@ Manos a la Data es un proyecto opensource que busca impulsar el uso de la cienci
   - [Jose Luis Laura](https://www.linkedin.com/in/jose-luis-laura-pumaleque/)
   - [Lucia Gomez Llactahuamani](https://www.linkedin.com/in/lucia-gomez-llactahuamani-363511109/)
   - [Christian Ninasivincha](https://www.linkedin.com/in/ninasivincha/)
+  - [Eduardo Corrales Huaman](https://www.linkedin.com/in/eduardo-corrales-huaman-a5baa91a0/)
 
