@@ -18,3 +18,4 @@ Manos a la Data es un proyecto opensource que busca impulsar el uso de la cienci
   - [Christian Ninasivincha](https://www.linkedin.com/in/ninasivincha/)
   - [Eduardo Corrales Huaman](https://www.linkedin.com/in/eduardo-corrales-huaman-a5baa91a0/)
   - [Luz del Alba Hidalgo](https://pe.linkedin.com/in/luz-del-alba-hidalgo-artica-3754a721)
+  -[Jeanette Vivanco Cornelio](https://www.linkedin.com/in/jeanette-lucero-vivanco-cornelio-2739ba154/)
